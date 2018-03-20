@@ -1,10 +1,30 @@
+header{
+    text-align:center;
+    background: url("../img/nature2.jpg") ;
+    background-size: cover;
+    color: white;
+}
+
 img{
-    width: 200px;
-    motion-rotation:180deg;
+    width: 240px;
+    margin: 50px 0px 0px 0px;
+    border: 7px solid white;
+    border-radius: 20px;
 }
 .rotatified {
     transform: rotate(270deg);
     }
-    header{
-        text-align:center;
+    ul{
+        padding: 10px;
+        background: black;
+    }
+    li{
+        display: inline;
+        padding: 0px 10px 0px 10px;
+    }
+    h1{
+        font-size:68px;
+    }
+    a{
+        color: white;
     }
