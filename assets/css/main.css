@@ -28,3 +28,7 @@ img{
     a{
         color: white;
     }
+    article{
+        width: 500px;
+        padding: 20px;
+    }
