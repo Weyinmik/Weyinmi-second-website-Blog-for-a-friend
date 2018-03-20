@@ -8,7 +8,7 @@ header{
 img{
     width: 240px;
     margin: 50px 0px 0px 0px;
-    border: 7px solid white;
+    border: 7px solid rgba(255, 255, 255, 1);;
     border-radius: 20px;
 }
 .rotatified {
@@ -16,7 +16,7 @@ img{
     }
     ul{
         padding: 10px;
-        background: black;
+        background: #0f0;
     }
     li{
         display: inline;
@@ -26,7 +26,7 @@ img{
         font-size:68px;
     }
     a{
-        color: white;
+        color: rgba(255, 255, 255, 1);
     }
     article{
         max-width: 500px;
