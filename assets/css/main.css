@@ -4,6 +4,10 @@ header{
     background-size: cover;
     color: white;
 }
+header a{
+    text-decoration:none;
+    color: white;
+}
 
 img{
     width: 240px;
